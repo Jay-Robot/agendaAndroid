@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AgendaContatos</string>
+    <string name="lnl_Nome">Nome</string>
+    <string name="lbl_Telefone">Telefone</string>
+    <string name="lbl_Nome">Nome</string>
+    <string name="lbl_email">E-mail</string>
+    <string name="lbl_endereco">Endereço</string>
+    <string name="lbl_datas_especiais">Datas Especiais</string>
+    <string name="lbl_grupos">Grupos</string>
+
+
+    <string name="lbl_salvar">Salvar</string>
+    <string name="lbl_alterar">Alterar</string>
+    <string name="lbl_excluir">Excluir</string>
+
+</resources>
